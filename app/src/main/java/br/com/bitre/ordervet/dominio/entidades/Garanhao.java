@@ -9,7 +9,7 @@ public class Garanhao {
     public String nome;
     public String local;
     public String endereco;
-    public String numero;
+    public String nro;
     public String complemento;
     public String bairro;
     public String uf;

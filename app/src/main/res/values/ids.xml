@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tittle_menu_ok" type="id">Ok</item>
+    <item name="tittle_menu_cancelar" type="id">Cancelar</item>
+</resources>

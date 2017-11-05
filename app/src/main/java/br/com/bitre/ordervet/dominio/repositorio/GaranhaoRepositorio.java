@@ -29,7 +29,7 @@ public class GaranhaoRepositorio {
         cv.put("NOME",garanhao.nome);
         cv.put("LOCAL",garanhao.local);
         cv.put("ENDERECO",garanhao.endereco);
-        cv.put("NUMERO",garanhao.numero);
+        cv.put("NUMERO",garanhao.nro);
         cv.put("COMPLEMENTO",garanhao.complemento);
         cv.put("BAIRRO",garanhao.bairro);
         cv.put("UF",garanhao.uf);
